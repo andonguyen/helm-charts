@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   ibm-blockchain-chaincode:
   - appVersion: 1.0.0
-    created: 2018-01-31T11:59:48.013493+11:00
+    created: 2018-01-31T13:32:19.723245+11:00
     description: IBM Blockchain Chaincode Chart
-    digest: e16c09e2b9e13acbd66735f66f40f52ea36e1890af2ba8275d538f312f064cde
+    digest: aa67c3e2b13e66cb40d3be52c4a9e0e79e116f496c10f2071dfb61b010e38bc3
     engine: gotpl
     home: https://ibm-blockchain.github.io
     icon: https://www.ibm.com/blogs/bluemix/wp-content/uploads/2016/02/IBM_Blockchain_Hero.png
@@ -25,9 +25,9 @@ entries:
     version: 1.0.0
   ibm-blockchain-channel:
   - appVersion: 1.0.0
-    created: 2018-01-31T11:59:48.014576+11:00
+    created: 2018-01-31T13:32:19.723833+11:00
     description: IBM Blockchain Channel Chart
-    digest: 2733d12bfba963580906c55a78659ad7d000458e91adc721ff177bbfc037428f
+    digest: 375ad90c4b1bc5e36b9fba46f3e96a872a528a5f2781e327ea3fc67f40d4e7c4
     engine: gotpl
     home: https://ibm-blockchain.github.io
     icon: https://www.ibm.com/blogs/bluemix/wp-content/uploads/2016/02/IBM_Blockchain_Hero.png
@@ -48,9 +48,9 @@ entries:
     version: 1.0.0
   ibm-blockchain-composer:
   - appVersion: 1.0.0
-    created: 2018-01-31T11:59:48.015227+11:00
+    created: 2018-01-31T13:32:19.724664+11:00
     description: IBM Blockchain Hyperledger Composer Chart
-    digest: 6a0edece6bf9d45af9e282ebb223238d4d3b96879167d0dfad25aa5160eb6ddf
+    digest: cf18bb5d71e92dbf9b115456ae42f00f1e596222b8ff01629b1c0deb4be9aa30
     engine: gotpl
     home: https://ibm-blockchain.github.io
     icon: https://www.ibm.com/blogs/bluemix/wp-content/uploads/2016/02/IBM_Blockchain_Hero.png
@@ -71,9 +71,9 @@ entries:
     version: 1.0.0
   ibm-blockchain-network:
   - appVersion: 1.0.0
-    created: 2018-01-31T11:59:48.016003+11:00
+    created: 2018-01-31T13:32:19.7255+11:00
     description: IBM Blockchain Network Chart
-    digest: 88edf4f633d2c167be6a04fbcd5061fda0893b89b5ceeb759379f330f1dfa515
+    digest: 9254cf3c5f9b81a1b034701833712c5bdda49d4291ac72879447a4c06ca00654
     engine: gotpl
     home: https://ibm-blockchain.github.io
     icon: https://www.ibm.com/blogs/bluemix/wp-content/uploads/2016/02/IBM_Blockchain_Hero.png
@@ -92,4 +92,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/andonguyen/helm-charts/master/blockchain/ibm-blockchain-network-1.0.0.tgz
     version: 1.0.0
-generated: 2018-01-31T11:59:48.012437+11:00
+generated: 2018-01-31T13:32:19.721465+11:00
